@@ -1,3 +1,5 @@
+CODETECH TASK1:
+
 💬 Chat-APP | MERN Real-Time Chat Application
 
 A production-ready real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.IO for instant messaging.  
