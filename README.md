@@ -51,7 +51,14 @@ FrontEnd setup:
 - npm install
 - npm run dev
 
-![image alt](https://github.com/mi-ganesh/Chat-APP/blob/903f5b2baa54dc47287b67d9bc89271aaa371b49/SS-Signin%20page.png)
+<p align="center">
+  <img src="https://github.com/mi-ganesh/Chat-APP/blob/903f5b2baa54dc47287b67d9bc89271aaa371b49/SS-Signin%20page.png" width="600" />
+  <br/>
+  <em>Weather App – Home Screen</em>
+</p>
+
+
+
 
 
 ![image alt](https://github.com/mi-ganesh/Chat-APP/blob/6861399ff33a859b203c1be3fc3413d68dfb6b04/SS-Dashboard.png)
