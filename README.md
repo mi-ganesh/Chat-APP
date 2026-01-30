@@ -1,11 +1,11 @@
 CODETECH TASK1:
 
-💬 Chat-APP | MERN Real-Time Chat Application
+## 💬 Chat-APP | MERN Real-Time Chat Application
 
 A production-ready real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.IO for instant messaging.  
 The app supports secure authentication, private conversations, real-time messaging, and online user presence with a modern UI.
 
-✨ Features
+## ✨ Features
 
 🔐 Authentication & Authorization
 - User Signup & Signin
@@ -33,24 +33,25 @@ The app supports secure authentication, private conversations, real-time messagi
 - Sidebar conversation list
 - Tailwind CSS styling
 
-How Run This:
+## How Run This:
 
-create a .env and inside it
-PORT=3000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secure_secret
-NODE_ENV=development
+# create a .env and inside it
+- PORT=3000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_secure_secret
+- NODE_ENV=development
 
 Backend Setup:
-cd Backend
-npm install
-npm run dev
+- cd Backend
+- npm install
+- npm run dev
 
 FrontEnd setup:
-cd Frontend
-npm install
-npm run dev
+- cd Frontend
+- npm install
+- npm run dev
 
+![image alt](https://github.com/mi-ganesh/Chat-APP/blob/903f5b2baa54dc47287b67d9bc89271aaa371b49/SS-Signin%20page.png)
 
 
 
