@@ -63,7 +63,7 @@ FrontEnd setup:
 ##
 
 <p align="center">
-  <img src="https://github.com/mi-ganesh/Chat-APP/blob/6861399ff33a859b203c1be3fc3413d68dfb6b04/SS-Dashboard.png" width="600" />
+  <img src="https://github.com/mi-ganesh/Chat-APP/blob/6861399ff33a859b203c1be3fc3413d68dfb6b04/SS-Dashboard.png" width="1000" height="400" />
   <br/>
   <em>Weather App – Home Screen</em>
 </p>
